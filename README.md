@@ -18,7 +18,6 @@
 <li>🧐 Curso <strong>ciência da computação</strong> na <strong>UENP</strong> (2023-2027)</li>
 <li>👨‍💻 A maioria dos meus projetos estão no <a href="https://github.com/OzeiasMoreira">Github</a>.</li>
 <li>💬 Gosto de conversar sobre <strong>assuntos voltados a tecnologia e games</strong>.</li>
-<li>😁 Sou bem comunicativo.</li>
 </ul>
 <h2>🚀 Tenho um breve conhecimento</h2>
 <div style="display: flex">
