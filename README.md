@@ -1,4 +1,4 @@
-<h2>Olá 👋, me chamou Ozeias Moreira</h2>
+<h2>Olá 👋, me chamo Ozeias Moreira</h2>
 <p>
   Atualmente estou no primeiro periodo do curso de ciencia da computação.
 </p>
@@ -24,20 +24,16 @@
 <h2>🚀 Tenho um breve conhecimento</h2>
 <div style="display: flex">
 
-<div align="center">
-
-  
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
 
 </div>
 
 <h2>🔎 Detalhes Github</h2>
-  <div align="center">
+  <div >
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
