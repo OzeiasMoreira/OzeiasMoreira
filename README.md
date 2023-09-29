@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-<img align="right" src="" style="border-radius: 50%;width: 250px;height: auto" />
 <h2>⚡️ Alguns fatos sobre mim</h2>
 <ul>
 <li>🧐 Curso <strong>ciência da computação</strong> na <strong>UENP</strong> (2023-2027)</li>
