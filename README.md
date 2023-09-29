@@ -1,6 +1,6 @@
 <h2>Olá 👋, me chamo Ozeias Moreira</h2>
 <p>
-  Atualmente estou no primeiro periodo do curso de ciencia da computação.
+  Atualmente estou no primeiro periodo do curso de <strong>Ciência da Computação.</strong>
 </p>
 <div style="display: flex">
   <a href="https://www.linkedin.com/in/ozeiasmoreira/" target="_blank">
@@ -23,7 +23,6 @@
 </ul>
 <h2>🚀 Tenho um breve conhecimento</h2>
 <div style="display: flex">
-
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
