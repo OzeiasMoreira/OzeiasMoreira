@@ -32,6 +32,9 @@
   <div >
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ozmoreiraa&label=Profile%20Views&color=1&icon=5&pretty=false" />
+</a>
   
 </div>
 
