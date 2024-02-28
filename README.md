@@ -26,15 +26,17 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
+   <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ozmoreiraa&label=Profile%20Views&color=1&icon=5&pretty=false" />
+</a>
+  
+
 </div>
 
 <h2>🔎 Detalhes Github</h2>
   <div >
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ozmoreiraa&label=Profile%20Views&color=1&icon=5&pretty=false" />
-</a>
-  
+ 
 </div>
 
