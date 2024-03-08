@@ -37,6 +37,7 @@
 <div>
 
    ![Ozeias Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=OzeiasMoreira&show_icons=true&theme=jolly)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OzeiasMoreira&hide=contribs,prs)
 
 </div>
 
