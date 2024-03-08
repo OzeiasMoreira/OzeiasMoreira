@@ -36,7 +36,11 @@
 
 <div>
 
-  ![Ozeias Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=OzeiasMoreira&show_icons=true&theme=jolly)
+<center>
+
+   ![Ozeias Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=OzeiasMoreira&show_icons=true&theme=jolly)
+</center>
+
 </div>
 
   <div >
