@@ -34,7 +34,7 @@
 <h2>🔎 Detalhes Github</h2>
 
 <div>
-    <img height="180cm scr="https://github-readme-stats.vercel.app/api?username=OzeiasMoreira&show_icons=true&theme=jolly"/>
+    
    ![Ozeias Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=OzeiasMoreira&show_icons=true&theme=jolly)
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OzeiasMoreira&layout=compact&langs_count=16&theme=jolly)
 
