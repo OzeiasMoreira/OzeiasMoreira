@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
    <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ozmoreiraa&label=Profile%20Views&color=1&icon=5&pretty=false" />
 </a>
@@ -35,7 +34,7 @@
 <h2>🔎 Detalhes Github</h2>
 
 <div>
-
+    <img height="180cm scr="https://github-readme-stats.vercel.app/api?username=OzeiasMoreira&show_icons=true&theme=jolly"/>
    ![Ozeias Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=OzeiasMoreira&show_icons=true&theme=jolly)
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OzeiasMoreira&layout=compact&langs_count=16&theme=jolly)
 
