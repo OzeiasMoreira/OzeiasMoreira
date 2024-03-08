@@ -29,6 +29,8 @@
    <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ozmoreiraa&label=Profile%20Views&color=1&icon=5&pretty=false" />
 </a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OzeiasMoreira)](https://https://github.com/OzeiasMoreira/github-readme-stats)
   
 
 </div>
