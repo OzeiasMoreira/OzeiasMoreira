@@ -30,14 +30,15 @@
   <img src="https://visitcount.itsvg.in/api?id=ozmoreiraa&label=Profile%20Views&color=1&icon=5&pretty=false" />
 </a>
 
+</div>
+
+<h2>🔎 Detalhes Github</h2>
+
 <div>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OzeiasMoreira)](https://https://github.com/OzeiasMoreira/github-readme-stats)
 </div>
 
-</div>
-
-<h2>🔎 Detalhes Github</h2>
   <div >
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
