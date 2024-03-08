@@ -32,7 +32,7 @@
 
 <div>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.jolly.app/api?username=OzeiasMoreira)](https://https://github.com/OzeiasMoreira/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OzeiasMoreira)](https://https://github.com/OzeiasMoreira/github-readme-stats)
 </div>
 
 </div>
