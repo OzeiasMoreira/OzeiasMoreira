@@ -1,6 +1,6 @@
-<h2>Olá 👋, me chamo Ozeias Moreira</h2>
+<h2>Hi 👋, my name is Ozeias</h2>
 <p>
-  Atualmente estou no primeiro periodo do curso de <strong>Ciência da Computação.</strong>
+  I am currently in the second semester of <strong>Computer Science.</strong>
 </p>
 <div style="display: flex">
   <a href="https://www.linkedin.com/in/ozeiasmoreira/" target="_blank"rel ="noopener noreferrer">
@@ -13,13 +13,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-<h2>⚡️ Alguns fatos sobre mim</h2>
-<ul>
-<li>🧐 Curso <strong>ciência da computação</strong> na <strong>UENP</strong> (2023-2027)</li>
-<li>👨‍💻 A maioria dos meus aprendizados estão no <a href="https://github.com/OzeiasMoreira">Github</a>.</li>
-<li>💬 Gosto de conversar sobre <strong>assuntos voltados a tecnologia e games</strong>.</li>
-</ul>
-<h2>🚀 Tenho um breve conhecimento</h2>
+<h2>🚀 I have basic knowledge.</h2>
 <div style="display: flex">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,7 +26,7 @@
 
 </div>
 
-<h2>🔎 Detalhes Github</h2>
+<h2>🔎 Github Details</h2>
 
 <div>
     
