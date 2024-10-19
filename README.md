@@ -1,6 +1,7 @@
 <h2>Olá 👋, meu nome é Ozeias Moreira</h2>
 <h2>Sobre Mim:</h2>
   <div>
+    
     - 🎓 Cursando Ciência da Computação.
     
     - 💼 Faço parte do projeto Talento Tech pela UEPG.
