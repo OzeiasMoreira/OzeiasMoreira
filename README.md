@@ -2,8 +2,11 @@
 <h2>Sobre Mim:</h2>
   <div>
     - 🎓 Cursando Ciência da Computação.
+    
     - 💼 Faço parte do projeto Talento Tech pela UEPG.
+    
     - 🏆 3º Lugar 🥉 AgroHackathon - GeniusCon 2024.
+    
     - 🚀 Buscando por conhecimento!
   </div>
 <h2>🌐 Redes Socias:<h2>
