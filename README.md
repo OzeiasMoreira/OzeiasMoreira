@@ -34,15 +34,6 @@
 
 </div>
 
-<h2>🔎 Github Details</h2>
-
-<div>
-    
-   ![Ozeias Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=OzeiasMoreira&show_icons=true&theme=jolly)
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OzeiasMoreira&layout=compact&langs_count=16&theme=jolly)
-
-</div>
-
 <div >
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
