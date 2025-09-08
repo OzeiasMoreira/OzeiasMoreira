@@ -22,12 +22,12 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-<h2>🚀 Tenho conhecimento básico:</h2>
+<h2>🚀 Atualmente estou trabalhando com:</h2>
 <div style="display: flex">
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,java" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,postgres,docker,c" />
   </a>
 </p>
 
