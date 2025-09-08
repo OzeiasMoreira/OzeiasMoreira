@@ -44,10 +44,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzeiasMoreira&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OzeiasMoreira&theme=highcontrast&hide_border=false" alt="OzeiasMoreira" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OzeiasMoreira&theme=highcontrast&hide_border=false" alt="OzeiasMoreira"/>
 </p>
 
----
- 
+--- 
 </div>
 
