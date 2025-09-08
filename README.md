@@ -13,7 +13,7 @@
 <h2>🌐 Redes Socias:<h2>
   <div style="display: flex">
 <p align="center">
-  <a href="[https://skillicons.dev](https://www.linkedin.com/in/ozeiasmoreira/)">
+  <a href="https://www.linkedin.com/in/ozeiasmoreira">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
