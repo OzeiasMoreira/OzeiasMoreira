@@ -24,7 +24,7 @@
 </div>
 <h2>🚀 Tenho conhecimento básico:</h2>
 <div style="display: flex">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="[https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white](https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg)" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
