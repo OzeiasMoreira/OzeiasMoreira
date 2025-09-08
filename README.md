@@ -14,7 +14,13 @@
   <div style="display: flex">
 <p align="center">
   <a href="https://www.linkedin.com/in/ozeiasmoreira">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+    <a href="https://www.instagram.com/_ozmoreiraa">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+      <a href="https://www.ozmoreira17@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 </div>
