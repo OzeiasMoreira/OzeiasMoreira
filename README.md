@@ -24,7 +24,7 @@
   </a>
 </p>
 </div>
-<h2>### 💼 Atualmente estou trabalhando com:</h2>
+<h2>💼 Atualmente estou trabalhando com:</h2>
 <div style="display: flex">
   
 <p align="center">
