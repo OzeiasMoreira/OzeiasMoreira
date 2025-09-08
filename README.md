@@ -10,7 +10,7 @@
     
     - 🚀 Buscando por conhecimento!
   </div>
-<h2>🌐 Redes Socias:<h2>
+<h2>📞 Contatos:<h2>
   <div style="display: flex">
 <p align="center">
   <a href="https://www.linkedin.com/in/ozeiasmoreira">
@@ -24,7 +24,7 @@
   </a>
 </p>
 </div>
-<h2>🚀 Atualmente estou trabalhando com:</h2>
+<h2>### 💼 Atualmente estou trabalhando com:</h2>
 <div style="display: flex">
   
 <p align="center">
@@ -33,6 +33,7 @@
   </a>
 </p>
 
+---
 </div>
 
 <div >
