@@ -7,6 +7,8 @@
     - 💼 Faço parte do projeto Talento Tech pela UEPG.
     
     - 🏆 3º Lugar 🥉 AgroHackathon - GeniusCon 2024.
+
+    - 🏆 2º Lugar 🥉 AgroHackathon - GeniusCon 2025.
     
     - 🚀 Buscando por conhecimento!
   </div>
