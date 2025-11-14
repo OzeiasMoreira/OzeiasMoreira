@@ -2,9 +2,9 @@
 <h2>Sobre Mim:</h2>
   <div>
     
-    - 🎓 Cursando Ciência da Computação.
+    - 🎓 Cursando Ciência da Computação - UENP.
     
-    - 💼 Faço parte do projeto Talento Tech pela UEPG.
+    - 🎓 Projeto Talento Tech - UEPG.
     
     - 🏆 3º Lugar 🥉 AgroHackathon - GeniusCon 2024.
 
