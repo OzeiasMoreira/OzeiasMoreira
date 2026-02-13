@@ -1,55 +1,55 @@
-<h2>Olá 👋, meu nome é Ozeias Moreira</h2>
-<h2>Sobre Mim:</h2>
-  <div>
-    
-    - 🎓 Cursando Ciência da Computação - UENP.
-    
-    - 🎓 Projeto Talento Tech - UEPG.
-    
-    - 🏆 3º Lugar 🥉 AgroHackathon - GeniusCon 2024.
+<h1 align="left">Olá, eu sou Ozeias Moreira 👋</h1>
 
-    - 🏆 2º Lugar 🥉 AgroHackathon - GeniusCon 2025.
-    
-    - 🚀 Buscando por conhecimento!
-  </div>
-<h2>📞 Contatos:<h2>
-  <div style="display: flex">
-<p align="center">
-  <a href="https://www.linkedin.com/in/ozeiasmoreira">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-    <a href="https://www.instagram.com/_ozmoreiraa">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-      <a href="https://www.ozmoreira17@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-</div>
-<h2>💼 Atualmente estou trabalhando com:</h2>
-<div style="display: flex">
-  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,postgres,docker,c" />
-  </a>
-</p>
+###
 
----
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">🎓 Estudante de Ciência da Computação - UENP  <br>🚀 Projeto Talento Tech - UEPG  <br>🏆 2º Lugar - AgroHackathon GeniusCon 2025  <br>🏆 3º Lugar - AgroHackathon GeniusCon 2024</p>
+
+###
+
+<h2 align="left">Tecnologias</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-<div >
+###
 
-### 📊 Minhas Estatísticas no GitHub
+<h2 align="left">Contato</h2>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OzeiasMoreira&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzeiasMoreira&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OzeiasMoreira&theme=highcontrast&hide_border=false" alt="OzeiasMoreira"/>
-</p>
+###
 
---- 
+<div align="left">
+  <a href="https://www.linkedin.com/in/ozeiasmoreira/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/_ozmoreiraa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="ozmoreira17@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
+###
